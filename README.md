@@ -1,5 +1,9 @@
 ### Before run this app, U should to go https://github.com/abdussamedkilic/yohei-flask and run backend code !!!
 
+### After run backend code, u should install node modules with : npm install command
+
+### After node modules downloaded u can run project with npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
