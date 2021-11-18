@@ -4,6 +4,8 @@
 
 ### After node modules downloaded u can run project with npm start
 
+#### u can see user1234 data at /user1234 and user5678 data at /user5678
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
