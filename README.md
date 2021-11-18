@@ -1,3 +1,5 @@
+# Before run this app, U should to go https://github.com/abdussamedkilic/yohei-flask and run backend code !!!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
